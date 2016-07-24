@@ -2,8 +2,10 @@
 My profile: https://www.kaggle.com/raulsenaferreira
 
 ## Competitions
+Animal Shelter
 https://www.kaggle.com/c/shelter-animal-outcomes
 
+Titanic
 https://www.kaggle.com/c/titanic
 
 ## Tutorials
